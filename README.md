@@ -2,7 +2,7 @@
 
 A modern, bilingual (English + German) landing page for UrbanShade - a startup offering mobile, plant-based shading systems for cities.
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack c1
 
 - **React** - UI framework
 - **Vite** - Build tool
